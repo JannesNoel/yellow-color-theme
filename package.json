@@ -1,0 +1,21 @@
+{
+  "name": "yellow-color-theme",
+  "displayName": "Yellow Color Theme",
+  "description": "A yellow color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yellow Theme ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yellow Theme -color-theme.json"
+      }
+    ]
+  }
+}
